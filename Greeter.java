@@ -5,6 +5,7 @@ public class Greeter {
 
   private Locale locale;
   private String name;
+  
 
   // Initialize the locale and name.
   public Greeter(String language, String country, String name) {
